@@ -1,0 +1,5 @@
+export const UPDATE_FILTER = 'UPDATE_FILTER';
+export const LOAD_FILTERS = 'LOAD_FILTERS';
+export const ADD_FILTER = 'ADD_FILTER';
+export const REMOVE_FILTER = 'REMOVE_FILTER';
+export const REMOVE_FILTERS = 'REMOVE_FILTERS';

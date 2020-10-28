@@ -1,0 +1,26 @@
+.quantity-filter-sites{
+    position: relative;        
+    width: 100%;    
+        
+    .quantity-filter-sites-button{
+        background-color: #E97A41;
+        color: white;
+        transition: background-color 0.2s;
+        border-color: white;
+        border-style: solid;
+
+        &:hover {
+  
+          background-color: #fff;
+          color: #E97A41;
+          border-color: #E97A41;
+          border-style: solid;
+  
+        }
+        
+    }
+}
+
+filter-sites-break {
+  white-space: pre-wrap;  
+} 

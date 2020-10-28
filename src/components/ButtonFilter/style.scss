@@ -1,0 +1,28 @@
+.filter-button-unit{
+  background-color: white;
+  color: black;
+  transition: background-color 0.2s;
+  border-color: black;
+  border-style: solid;
+  margin-top: 5px;
+  margin-bottom: 5px;  
+
+  &:hover {
+
+    background-color: black;
+    color: white;
+    border-color: black;
+    border-style: solid;
+
+  }
+  
+
+}
+
+.filter-button-unit-checked{
+  background-color: black;
+  color: white;
+  border-color: black;
+  border-style: solid;
+
+}

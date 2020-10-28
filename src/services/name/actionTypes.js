@@ -1,0 +1,1 @@
+export const UPDATE_FILTER_NAME = 'UPDATE_FILTER_NAME';
